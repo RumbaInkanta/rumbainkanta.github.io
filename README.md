@@ -8,7 +8,7 @@ I'm a technical specialist who recently started delving into programming and wan
 
 *   🌍  I'm based in Russia
 *   ✉️  You can contact me at [rumbainkanta@gmail.com](mailto:rumbainkanta@gmail.com)
-*   🧠  I'm learning Django
+*   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on interesting project or internship
 ### Skills of different levels
 <p align="left">
